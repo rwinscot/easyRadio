@@ -1,5 +1,8 @@
-Examples of how to use the easyRadio from LPRS on various platforms.
+easyRadio
 ===
+Examples of how to use the easyRadio from LPRS on various platforms.
+
+
 
 Arduino
 ---
